@@ -1,0 +1,6 @@
+// Add FindMyMac menu item to Listings menu
+addMenuItem({
+menu: 'listing',
+name: 'FindMyMac',
+url: appUrl + '/show/custom/findmymac'
+})
